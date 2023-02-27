@@ -22,7 +22,7 @@ Hasznos még, de régi [MathWiki](http://wiki.math.bme.hu/view/Matematika_A2a_20
 
 Saját jegyzet nem lesz, csak emlékeztetők.
 
-Néhány javasolt online jegyzet a lineáris algebra témaköréből:
+Néhány javasolt online jegyzet a **lineáris algebra** témaköréből:
  
 Simon András linalg jegyzete (**ez gyakorlatilag a hivatalos A2 jegyzet**): https://math.bme.hu/~asimon/l.pdf
 
@@ -37,6 +37,8 @@ Remek angol nyelvű linlag jegyzet: https://textbooks.math.gatech.edu/ila/index.
 Paul Dawkins szuper jegyzete: https://tutorial.math.lamar.edu/
 
 Serge Lang csodálatos könyve: http://library.lol/main/76FFC3E1143750908F207E36B8755E38
+
+**Analízis** később...
 
 ## Tárgykövetelmények
 
