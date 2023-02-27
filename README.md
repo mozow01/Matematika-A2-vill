@@ -44,7 +44,7 @@ Serge Lang csodálatos könyve: http://library.lol/main/76FFC3E1143750908F207E36
 
 A 2022 előtt felvetteknek egyeztetés alatt!
 
-Ideieknek hivatalos tárgykövetelmény, amikor kijön a zh ütemterv.
+Ideieknek hivatalos tárgykövetelmény, néhány napon belül, amikor kijön a zh ütemterv.
 
 Iránymutatóul viszont:
 
