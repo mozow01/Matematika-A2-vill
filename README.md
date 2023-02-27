@@ -40,7 +40,11 @@ Serge Lang csodálatos könyve: http://library.lol/main/76FFC3E1143750908F207E36
 
 ## Tárgykövetelmények
 
-[pdf](https://github.com/mozow01/Matematika-A1-vill/blob/de01237969b1ab2c3921a45f5d46a1d5ad34d006/Matematika_A1a%20_%20Anal%C3%ADzis_Moln%C3%A1r.pdf)
+A 2022 előtt felvetteknek egyeztetés alatt!
+
+Ideieknek hivatalos tárgykövetelmény, amikor kijön a zh ütemterv.
+
+Iránymutatóul viszont:
 
 ### Az _aláírás_ megszerzésének feltételei
 1. Mindként zh teljesítése, azaz **legalább 18 pont** elérése a 60-ból külön mindkét zh-n. 
