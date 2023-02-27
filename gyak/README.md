@@ -1,1 +1,1 @@
-
+# Gyakorlatok feladatsorai 
