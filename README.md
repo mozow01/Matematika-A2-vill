@@ -24,7 +24,7 @@ Saját jegyzet nem lesz, csak emlékeztetők.
 
 Néhány javasolt online jegyzet a lineáris algebra témaköréből:
  
-Simon András linalg jegyzete (ez gyakorlatilag a hivatalos A2 jegyzet): https://math.bme.hu/~asimon/l.pdf
+Simon András linalg jegyzete (**ez gyakorlatilag a hivatalos A2 jegyzet**): https://math.bme.hu/~asimon/l.pdf
 
 Wettl Ferenc linalg jegyzete (az Algebra Tsz. kiváló linalg jegyzete): https://math.bme.hu/~wettl/okt/Jegyzet/00la.pdf
 
