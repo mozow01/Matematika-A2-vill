@@ -2,9 +2,9 @@
 
 ## ZH információk
 
-1. zh: ?
+1. zh: ápr. 28. péntek 8-10
 
-2. zh: ?
+2. zh: máj. 19. péntek 8-10
 
 pót zh: ?
 
