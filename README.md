@@ -17,8 +17,11 @@ A több mint 20 évre visszanyúló Serény György / Simon András -féle hagyo
 **Hivatalos:**
 
 https://math.bme.hu/~asimon/l.pdf
+
 https://math.bme.hu/~mozow/linalg_2017
+
 https://math.bme.hu/~asimon/sorok.pdf
+
 https://math.bme.hu/~asimon/tobbvalt.pdf
 
 Csak az előadáson elmondott témák és anyag.
