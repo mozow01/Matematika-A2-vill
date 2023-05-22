@@ -6,9 +6,9 @@
 
 2. zh: máj. 19. péntek 8-10
 
-pót zh: ?
+pót zh: június 7. szerda 10-12, IB025
 
-aláíráspótló vizsga: ?
+aláíráspótló vizsga: június 13. kedd 12-14, IB025
 
 ## Jegyzetek
 
