@@ -52,12 +52,6 @@ Serge Lang csodálatos könyve: http://library.lol/main/76FFC3E1143750908F207E36
 
 ## Tárgykövetelmények
 
-A 2022 előtt felvetteknek egyeztetés alatt!
-
-Ideieknek hivatalos tárgykövetelmény, néhány napon belül, amikor kijön a zh ütemterv.
-
-Iránymutatóul viszont:
-
 ### Az _aláírás_ megszerzésének feltételei
 1. Mindként zh teljesítése, azaz **legalább 18 pont** elérése a 60-ból külön mindkét zh-n. 
 2. Jelenlét mind a gyakorlatok, mind az előadások legalább 70%-án.
@@ -87,3 +81,35 @@ jó (4),        ha 24≦**v** és 42≦**n**<51;
 jeles (5),     ha 24≦**v** és 51≦**n**
 
 Javítás kezdeményezése, ha a vizsgát teljesítette: a vizsga újbóli felvétele _vagy_ szóbeli vizsgázás szándékénak jelzése az előadónál (a szóbelin nem lehet rontani, ami megvan, az megvan).
+
+## A szigorlat feltételei
+
+### Követelmény
+
+Ugyanaz, mint a fenti A2:
+
+https://math.bme.hu/~asimon/l.pdf
+
+https://math.bme.hu/~mozow/linalg_2017
+
+https://math.bme.hu/~asimon/sorok.pdf
+
+https://math.bme.hu/~asimon/tobbvalt.pdf
+
+Csak az előadáson elmondott témák és anyag.
+
+### A szigorlati jegy meghatározása
+
+**v** az írásbeli vizsga pontszáma. Neptunba beírt jegy: 
+
+elégtelen (1), ha **v**<24; 
+
+elégséges (2), ha 24≦**v**<33; 
+
+közepes (3),   ha 33≦**v**<42;
+
+jó (4),        ha 42≦**v**<51;
+
+jeles (5),     ha 51≦**v**
+
+Javítás kezdeményezése, ha a szigorlatot teljesítette: a vizsga újbóli felvétele _vagy_ szóbeli vizsgázás szándékénak jelzése az előadónál (a szóbelin nem lehet rontani, ami megvan, az megvan).
