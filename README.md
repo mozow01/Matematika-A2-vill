@@ -67,7 +67,7 @@ A minimumpontszám elérése, azaz **legalább 24 pont** a 60-ból.
 Javítási lehetőség: a vizsga újbóli felvétele (a TVSZ szerint meghatározott módon).
 
 ### A _vizsgajegy_ meghatározása
-**v** az írásbeli vizsga pontszáma, **z** a két zh pontszámának számtani közepe. Ekkor a kollokviumpontszám: **n**
+**v** az írásbeli vizsga pontszáma (legfeljebb 60 pont), **z** a két zh pontszámának számtani közepe (legfeljebb 60-60 pont). Ekkor a kollokviumpontszám: **n**
 = max { **v** , **(v + z)/2** } a Neptunba beírt jegy: 
 
 elégtelen (1), ha **v**<24; 
@@ -100,7 +100,7 @@ Csak az előadáson elmondott témák és anyag.
 
 ### A szigorlati jegy meghatározása
 
-**v** az írásbeli vizsga pontszáma. Neptunba beírt jegy: 
+**v** az írásbeli vizsga pontszáma (legfeljebb 60 pont). Neptunba beírt jegy: 
 
 elégtelen (1), ha **v**<24; 
 
