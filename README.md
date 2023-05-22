@@ -14,7 +14,16 @@ aláíráspótló vizsga: június 13. kedd 12-14, IB025
 
 A több mint 20 évre visszanyúló Serény György / Simon András -féle hagyományhoz ragaszkodunk. Az ottani jegyzetek, feladatsorok használhatók a felkészüléshez. 
 
-Simon András korábbi előadó oldala: https://math.bme.hu/~asimon/
+**Hivatalos:**
+
+https://math.bme.hu/~asimon/l.pdf
+https://math.bme.hu/~mozow/linalg_2017
+https://math.bme.hu/~asimon/sorok.pdf
+https://math.bme.hu/~asimon/tobbvalt.pdf
+
+Csak az előadáson elmondott témák és anyag.
+
+**Egyéb**
 
 VIK wiki: https://vik.wiki/Matematika_A2a_-_Vektorf%C3%BCggv%C3%A9nyek https://vik.wiki/Matematika_A2f_-_Vektorf%C3%BCggv%C3%A9nyek (a nem PJ jelű feladatsorok)
 
@@ -37,8 +46,6 @@ Remek angol nyelvű linlag jegyzet: https://textbooks.math.gatech.edu/ila/index.
 Paul Dawkins szuper jegyzete: https://tutorial.math.lamar.edu/
 
 Serge Lang csodálatos könyve: http://library.lol/main/76FFC3E1143750908F207E36B8755E38
-
-**Analízis** később...
 
 ## Tárgykövetelmények
 
