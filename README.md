@@ -80,7 +80,7 @@ jó (4),        ha 24≦**v** és 42≦**n**<51;
 
 jeles (5),     ha 24≦**v** és 51≦**n**
 
-Javítás kezdeményezése, ha a vizsgát teljesítette: a vizsga újbóli felvétele _vagy_ szóbeli vizsgázás szándékénak jelzése az előadónál (a szóbelin nem lehet rontani, ami megvan, az megvan).
+Javítás kezdeményezése, ha a vizsgát **nem** teljesítette (azaz **v**<24 esetén): a vizsga újbóli felvétele, a TVSZ-ben írtaknak megfelelően. Javítás kezdeményezése, ha a vizsgát teljesítette: a vizsga újbóli felvétele _vagy_ szóbeli vizsgázás szándékénak jelzése az előadónál (a szóbelin nem lehet rontani, ami megvan, az megvan).
 
 ## A szigorlat feltételei
 
@@ -112,4 +112,4 @@ jó (4),        ha 42≦**v**<51;
 
 jeles (5),     ha 51≦**v**
 
-Javítás kezdeményezése, ha a szigorlatot teljesítette: a vizsga újbóli felvétele _vagy_ szóbeli vizsgázás szándékénak jelzése az előadónál (a szóbelin nem lehet rontani, ami megvan, az megvan).
+Javítás kezdeményezése, ha a szigorlatot **nem** teljesítette (azaz **v**<24 esetén): a szigorlati vizsga újbóli felvétele, a TVSZ feltételei szerint. Javítás kezdeményezése, ha a szigorlatot teljesítette (azaz 24≦**v** esetén) : a vizsga újbóli felvétele _vagy_ szóbeli vizsgázás szándékénak jelzése az előadónál (a szóbelin nem lehet rontani, ami megvan, az megvan).
