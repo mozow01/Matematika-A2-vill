@@ -57,7 +57,7 @@ Szóbeli tematika
 ## 9. Gauss-elimináció
 
 (Homogén és inhomogén egyenletrendszer megoldása, lépcsős és redukált lépcsős alak, a megoldás létezése és egyértelműsége, homogén egyenlet megoldástere, magtér meghatározása, sortér és sortranszformációk, oszloptér és sortranszformációk. **Mátrixinverz egyértelműségének igazolása**)
-(https://math.bme.hu/~asimon/l.pdf)]
+([https://math.bme.hu/~asimon/l.pdf](https://github.com/mozow01/Matematika-A2-vill/blob/main/jegyzet_mat_A2_2023-3.pdf))]
 
 
 
