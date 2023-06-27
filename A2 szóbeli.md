@@ -57,7 +57,7 @@ Szóbeli tematika
 ## 9. Gauss-elimináció
 
 (Homogén és inhomogén egyenletrendszer megoldása, lépcsős és redukált lépcsős alak, a megoldás létezése és egyértelműsége, homogén egyenlet megoldástere, magtér meghatározása, sortér és sortranszformációk, oszloptér és sortranszformációk. **Mátrixinverz egyértelműségének igazolása**)
-[https://github.com/mozow01/Matematika-A2-vill/blob/main/jegyzet_mat_A2_2023-3.pdf]
+(https://math.bme.hu/~asimon/l.pdf)]
 
 
 
@@ -65,4 +65,4 @@ Szóbeli tematika
 ## 10. Sajátprobléma
 
 (Leképezés sajátértéke és sajátvektora, sajátaltér, sajátérték meghatározása és az eljárás jóságának bizonyítása, **főtengelytétel bizonyítása,** diagonalizáció, ortogonális és unitért diagonalizáció.) 
-[https://github.com/mozow01/Matematika-A2-vill/blob/main/jegyzet_mat_A2_2023-3.pdf]
+[https://math.bme.hu/~asimon/l.pdf]
